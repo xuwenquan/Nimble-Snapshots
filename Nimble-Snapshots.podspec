@@ -5,7 +5,8 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    Nimble matchers for iOSSnapshotTestCase. Highly derivative of [Expecta Matchers for iOSSnapshotTestCase](https://github.com/dblock/ios-snapshot-test-case-expecta).
                    DESC
-  s.homepage     = "https://github.com/ashfurrow/Nimble-Snapshots"
+  #s.homepage     = "https://github.com/ashfurrow/Nimble-Snapshots"
+  s.homepage     = "https://github.com/xuwenquan/Nimble-Snapshots"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Ash Furrow" => "ash@ashfurrow.com" }
   s.social_media_url   = "http://twitter.com/ashfurrow"
